@@ -1,0 +1,30 @@
+﻿@{
+	ViewData["Title"] = "Laboratorios";
+}
+<fieldset class="border p-3">
+    <legend class="h5">Buscar Laboratorio</legend>
+    <form  id ="frmBusqueda" method ="post" class="row g-3">
+        <div class="col-md-4">
+            <label for="inputIdLab" class="form-label">Nombre</label>
+            <input type="text" class="form-control" name="nombre"  id="inputIdLab">
+        </div>
+        <div class="col-md-4">
+            <label for="inputNombre" class="form-label">Direccion</label>
+            <input type="text" class="form-control" name="direccion" id="inputNombre">
+        </div>
+        <div class="col-md-4">
+            <label for="inputDireccion" class="form-label">Persona Contacto</label>
+            <input type="text" class="form-control" name ="personacontacto"id="inputDireccion">
+        </div>
+        <div class="col-12">
+            <button type="button" class="btn btn-danger" onclick="BuscarLaboratorio()">Buscar</button>
+            <button type="button" class="btn btn-primary" onclick="LimpiarLaboratorio()">Limpiar</button>
+        </div>
+    </form>
+</fieldset>
+
+
+<h1>Laboratorios</h1>
+<div id="divTabla"></div>
+<script src="~/js/generic.js"></script>
+<script src="~/js/laboratorio.js"></script>

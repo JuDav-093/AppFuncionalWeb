@@ -1,0 +1,45 @@
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaDatos\bin\Debug\net9.0\CapaDatos.deps.json
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaDatos\bin\Debug\net9.0\CapaDatos.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaDatos\bin\Debug\net9.0\CapaDatos.pdb
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaDatos\bin\Debug\net9.0\CapaEntidad.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaDatos\bin\Debug\net9.0\CapaEntidad.pdb
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaDatos\obj\Debug\net9.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaDatos\obj\Debug\net9.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaDatos\obj\Debug\net9.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaDatos\obj\Debug\net9.0\CapaDatos.AssemblyInfo.cs
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaDatos\obj\Debug\net9.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaDatos\obj\Debug\net9.0\CapaDatos.csproj.Up2Date
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaDatos\obj\Debug\net9.0\CapaDatos.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaDatos\obj\Debug\net9.0\refint\CapaDatos.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaDatos\obj\Debug\net9.0\CapaDatos.pdb
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaDatos\obj\Debug\net9.0\ref\CapaDatos.dll
+C:\Users\LNV\source\repos\AplicacionFuncionalWeb\CapaDatos\bin\Debug\net9.0\CapaDatos.deps.json
+C:\Users\LNV\source\repos\AplicacionFuncionalWeb\CapaDatos\bin\Debug\net9.0\CapaDatos.dll
+C:\Users\LNV\source\repos\AplicacionFuncionalWeb\CapaDatos\bin\Debug\net9.0\CapaDatos.pdb
+C:\Users\LNV\source\repos\AplicacionFuncionalWeb\CapaDatos\bin\Debug\net9.0\CapaEntidad.dll
+C:\Users\LNV\source\repos\AplicacionFuncionalWeb\CapaDatos\bin\Debug\net9.0\CapaEntidad.pdb
+C:\Users\LNV\source\repos\AplicacionFuncionalWeb\CapaDatos\obj\Debug\net9.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\LNV\source\repos\AplicacionFuncionalWeb\CapaDatos\obj\Debug\net9.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LNV\source\repos\AplicacionFuncionalWeb\CapaDatos\obj\Debug\net9.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\LNV\source\repos\AplicacionFuncionalWeb\CapaDatos\obj\Debug\net9.0\CapaDatos.AssemblyInfo.cs
+C:\Users\LNV\source\repos\AplicacionFuncionalWeb\CapaDatos\obj\Debug\net9.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\LNV\source\repos\AplicacionFuncionalWeb\CapaDatos\obj\Debug\net9.0\CapaDatos.csproj.Up2Date
+C:\Users\LNV\source\repos\AplicacionFuncionalWeb\CapaDatos\obj\Debug\net9.0\CapaDatos.dll
+C:\Users\LNV\source\repos\AplicacionFuncionalWeb\CapaDatos\obj\Debug\net9.0\refint\CapaDatos.dll
+C:\Users\LNV\source\repos\AplicacionFuncionalWeb\CapaDatos\obj\Debug\net9.0\CapaDatos.pdb
+C:\Users\LNV\source\repos\AplicacionFuncionalWeb\CapaDatos\obj\Debug\net9.0\ref\CapaDatos.dll
+C:\Users\Juanis\Desktop\4to repechaje\web\actual\MiPrimeraAPPAspNetCore\AplicacionFuncionalWeb\CapaDatos\bin\Debug\net9.0\CapaDatos.deps.json
+C:\Users\Juanis\Desktop\4to repechaje\web\actual\MiPrimeraAPPAspNetCore\AplicacionFuncionalWeb\CapaDatos\bin\Debug\net9.0\CapaDatos.dll
+C:\Users\Juanis\Desktop\4to repechaje\web\actual\MiPrimeraAPPAspNetCore\AplicacionFuncionalWeb\CapaDatos\bin\Debug\net9.0\CapaDatos.pdb
+C:\Users\Juanis\Desktop\4to repechaje\web\actual\MiPrimeraAPPAspNetCore\AplicacionFuncionalWeb\CapaDatos\bin\Debug\net9.0\CapaEntidad.dll
+C:\Users\Juanis\Desktop\4to repechaje\web\actual\MiPrimeraAPPAspNetCore\AplicacionFuncionalWeb\CapaDatos\bin\Debug\net9.0\CapaEntidad.pdb
+C:\Users\Juanis\Desktop\4to repechaje\web\actual\MiPrimeraAPPAspNetCore\AplicacionFuncionalWeb\CapaDatos\obj\Debug\net9.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Juanis\Desktop\4to repechaje\web\actual\MiPrimeraAPPAspNetCore\AplicacionFuncionalWeb\CapaDatos\obj\Debug\net9.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanis\Desktop\4to repechaje\web\actual\MiPrimeraAPPAspNetCore\AplicacionFuncionalWeb\CapaDatos\obj\Debug\net9.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Juanis\Desktop\4to repechaje\web\actual\MiPrimeraAPPAspNetCore\AplicacionFuncionalWeb\CapaDatos\obj\Debug\net9.0\CapaDatos.AssemblyInfo.cs
+C:\Users\Juanis\Desktop\4to repechaje\web\actual\MiPrimeraAPPAspNetCore\AplicacionFuncionalWeb\CapaDatos\obj\Debug\net9.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Juanis\Desktop\4to repechaje\web\actual\MiPrimeraAPPAspNetCore\AplicacionFuncionalWeb\CapaDatos\obj\Debug\net9.0\CapaDatos.csproj.Up2Date
+C:\Users\Juanis\Desktop\4to repechaje\web\actual\MiPrimeraAPPAspNetCore\AplicacionFuncionalWeb\CapaDatos\obj\Debug\net9.0\CapaDatos.dll
+C:\Users\Juanis\Desktop\4to repechaje\web\actual\MiPrimeraAPPAspNetCore\AplicacionFuncionalWeb\CapaDatos\obj\Debug\net9.0\refint\CapaDatos.dll
+C:\Users\Juanis\Desktop\4to repechaje\web\actual\MiPrimeraAPPAspNetCore\AplicacionFuncionalWeb\CapaDatos\obj\Debug\net9.0\CapaDatos.pdb
+C:\Users\Juanis\Desktop\4to repechaje\web\actual\MiPrimeraAPPAspNetCore\AplicacionFuncionalWeb\CapaDatos\obj\Debug\net9.0\ref\CapaDatos.dll

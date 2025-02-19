@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juanis\\Desktop\\4to repechaje\\web\\actual\\MiPrimeraAPPAspNetCore\\AplicacionFuncionalWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|c:\\users\\juanis\\desktop\\4to repechaje\\web\\actual\\miprimeraappaspnetcore\\aplicacionfuncionalweb\\miprimeraappaspnetcore\\wwwroot\\js\\sucursal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|solutionrelative:miprimeraappaspnetcore\\wwwroot\\js\\sucursal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6215589-A829-4C3B-B4D0-34753C7D359A}|CapaDatos\\CapaDatos.csproj|c:\\users\\juanis\\desktop\\4to repechaje\\web\\actual\\miprimeraappaspnetcore\\aplicacionfuncionalweb\\capadatos\\sucursaldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6215589-A829-4C3B-B4D0-34753C7D359A}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\sucursaldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45017B9A-AF61-4BF1-94EA-326D4DEE43B0}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\juanis\\desktop\\4to repechaje\\web\\actual\\miprimeraappaspnetcore\\aplicacionfuncionalweb\\capaentidad\\laboratoriocls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45017B9A-AF61-4BF1-94EA-326D4DEE43B0}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\laboratoriocls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sucursal.js",
+              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\4to repechaje\\web\\actual\\MiPrimeraAPPAspNetCore\\AplicacionFuncionalWeb\\MiPrimeraAPPAspNetCore\\wwwroot\\js\\sucursal.js",
+              "RelativeDocumentMoniker": "MiPrimeraAPPAspNetCore\\wwwroot\\js\\sucursal.js",
+              "ToolTip": "C:\\Users\\Juanis\\Desktop\\4to repechaje\\web\\actual\\MiPrimeraAPPAspNetCore\\AplicacionFuncionalWeb\\MiPrimeraAPPAspNetCore\\wwwroot\\js\\sucursal.js",
+              "RelativeToolTip": "MiPrimeraAPPAspNetCore\\wwwroot\\js\\sucursal.js",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-19T21:16:12.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LaboratorioCLS.cs",
+              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\4to repechaje\\web\\actual\\MiPrimeraAPPAspNetCore\\AplicacionFuncionalWeb\\CapaEntidad\\LaboratorioCLS.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\LaboratorioCLS.cs",
+              "ToolTip": "C:\\Users\\Juanis\\Desktop\\4to repechaje\\web\\actual\\MiPrimeraAPPAspNetCore\\AplicacionFuncionalWeb\\CapaEntidad\\LaboratorioCLS.cs",
+              "RelativeToolTip": "CapaEntidad\\LaboratorioCLS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:12:25.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SucursalDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Juanis\\Desktop\\4to repechaje\\web\\actual\\MiPrimeraAPPAspNetCore\\AplicacionFuncionalWeb\\CapaDatos\\SucursalDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\SucursalDAL.cs",
+              "ToolTip": "C:\\Users\\Juanis\\Desktop\\4to repechaje\\web\\actual\\MiPrimeraAPPAspNetCore\\AplicacionFuncionalWeb\\CapaDatos\\SucursalDAL.cs",
+              "RelativeToolTip": "CapaDatos\\SucursalDAL.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwF0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:05:35.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

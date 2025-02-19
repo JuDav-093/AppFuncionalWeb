@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Sucursal";
+}
+<fieldset class="border p-3">
+    <legend class="h5">Buscar Sucursal</legend>
+    <form id="frmBusqueda" method="post" class="row g-3">
+        <div class="col-md-4">
+            <label for="inputIdSuc" class="form-label">Nombre</label>
+            <input type="text" class="form-control" name="nombre" id="inputIdSuc">
+        </div>
+        <div class="col-md-4">
+            <label for="inputNombre" class="form-label">Direccion</label>
+            <input type="text" class="form-control" name="direccion" id="inputNombre">
+        </div>
+      
+        <div class="col-12">
+            <button type="button" class="btn btn-danger" onclick="BuscarSucursal()">Buscar</button>
+            <button type="button" class="btn btn-primary" onclick="LimpiarSucursal()">Limpiar</button>
+        </div>
+    </form>
+</fieldset>
+
+<h1>Sucursal</h1>
+
+<div id="divTabla"></div>
+
+<script src="~/js/generic.js"></script>
+<script src="~/js/sucursal.js"></script>

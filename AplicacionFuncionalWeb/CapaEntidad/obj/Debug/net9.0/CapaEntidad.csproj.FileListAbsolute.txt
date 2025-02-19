@@ -1,0 +1,33 @@
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaEntidad\bin\Debug\net9.0\CapaEntidad.deps.json
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaEntidad\bin\Debug\net9.0\CapaEntidad.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaEntidad\bin\Debug\net9.0\CapaEntidad.pdb
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaEntidad\obj\Debug\net9.0\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaEntidad\obj\Debug\net9.0\CapaEntidad.AssemblyInfoInputs.cache
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaEntidad\obj\Debug\net9.0\CapaEntidad.AssemblyInfo.cs
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaEntidad\obj\Debug\net9.0\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaEntidad\obj\Debug\net9.0\CapaEntidad.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaEntidad\obj\Debug\net9.0\refint\CapaEntidad.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaEntidad\obj\Debug\net9.0\CapaEntidad.pdb
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaEntidad\obj\Debug\net9.0\ref\CapaEntidad.dll
+C:\Users\LNV\source\repos\AplicacionFuncionalWeb\CapaEntidad\bin\Debug\net9.0\CapaEntidad.deps.json
+C:\Users\LNV\source\repos\AplicacionFuncionalWeb\CapaEntidad\bin\Debug\net9.0\CapaEntidad.dll
+C:\Users\LNV\source\repos\AplicacionFuncionalWeb\CapaEntidad\bin\Debug\net9.0\CapaEntidad.pdb
+C:\Users\LNV\source\repos\AplicacionFuncionalWeb\CapaEntidad\obj\Debug\net9.0\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LNV\source\repos\AplicacionFuncionalWeb\CapaEntidad\obj\Debug\net9.0\CapaEntidad.AssemblyInfoInputs.cache
+C:\Users\LNV\source\repos\AplicacionFuncionalWeb\CapaEntidad\obj\Debug\net9.0\CapaEntidad.AssemblyInfo.cs
+C:\Users\LNV\source\repos\AplicacionFuncionalWeb\CapaEntidad\obj\Debug\net9.0\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\LNV\source\repos\AplicacionFuncionalWeb\CapaEntidad\obj\Debug\net9.0\CapaEntidad.dll
+C:\Users\LNV\source\repos\AplicacionFuncionalWeb\CapaEntidad\obj\Debug\net9.0\refint\CapaEntidad.dll
+C:\Users\LNV\source\repos\AplicacionFuncionalWeb\CapaEntidad\obj\Debug\net9.0\CapaEntidad.pdb
+C:\Users\LNV\source\repos\AplicacionFuncionalWeb\CapaEntidad\obj\Debug\net9.0\ref\CapaEntidad.dll
+C:\Users\Juanis\Desktop\4to repechaje\web\actual\MiPrimeraAPPAspNetCore\AplicacionFuncionalWeb\CapaEntidad\bin\Debug\net9.0\CapaEntidad.deps.json
+C:\Users\Juanis\Desktop\4to repechaje\web\actual\MiPrimeraAPPAspNetCore\AplicacionFuncionalWeb\CapaEntidad\bin\Debug\net9.0\CapaEntidad.dll
+C:\Users\Juanis\Desktop\4to repechaje\web\actual\MiPrimeraAPPAspNetCore\AplicacionFuncionalWeb\CapaEntidad\bin\Debug\net9.0\CapaEntidad.pdb
+C:\Users\Juanis\Desktop\4to repechaje\web\actual\MiPrimeraAPPAspNetCore\AplicacionFuncionalWeb\CapaEntidad\obj\Debug\net9.0\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanis\Desktop\4to repechaje\web\actual\MiPrimeraAPPAspNetCore\AplicacionFuncionalWeb\CapaEntidad\obj\Debug\net9.0\CapaEntidad.AssemblyInfoInputs.cache
+C:\Users\Juanis\Desktop\4to repechaje\web\actual\MiPrimeraAPPAspNetCore\AplicacionFuncionalWeb\CapaEntidad\obj\Debug\net9.0\CapaEntidad.AssemblyInfo.cs
+C:\Users\Juanis\Desktop\4to repechaje\web\actual\MiPrimeraAPPAspNetCore\AplicacionFuncionalWeb\CapaEntidad\obj\Debug\net9.0\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Juanis\Desktop\4to repechaje\web\actual\MiPrimeraAPPAspNetCore\AplicacionFuncionalWeb\CapaEntidad\obj\Debug\net9.0\CapaEntidad.dll
+C:\Users\Juanis\Desktop\4to repechaje\web\actual\MiPrimeraAPPAspNetCore\AplicacionFuncionalWeb\CapaEntidad\obj\Debug\net9.0\refint\CapaEntidad.dll
+C:\Users\Juanis\Desktop\4to repechaje\web\actual\MiPrimeraAPPAspNetCore\AplicacionFuncionalWeb\CapaEntidad\obj\Debug\net9.0\CapaEntidad.pdb
+C:\Users\Juanis\Desktop\4to repechaje\web\actual\MiPrimeraAPPAspNetCore\AplicacionFuncionalWeb\CapaEntidad\obj\Debug\net9.0\ref\CapaEntidad.dll

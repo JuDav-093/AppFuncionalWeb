@@ -1,0 +1,18 @@
+﻿@{
+	ViewData["Title"] = "Index"; 
+}
+
+<h1>Tipo Medicamento</h1>
+
+
+<div class="input-group">
+	<input id="txtNombreTipoMedicamento" onkeyup = "filtrarTipoMedicamento()" type="text" class="form-control" placeholder="Ingresar tipo medicamento a buscar">
+	@* <button class="btn btn-outline-secondary" type="button" onclick="Buscar()">Buscar</button>
+	<button class="btn btn-outline-secondary" type="button" onclick="Limpiar()">Limpiar</button> *@
+
+</div>
+
+<div id="divTabla"></div>
+
+<script src="~/js/generic.js"></script>
+<script src="~/js/tipomedicamento.js"></script>
